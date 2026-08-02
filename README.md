@@ -2,6 +2,8 @@
 Hi 👋, I'm Richardson Mercedes
 </h1>
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) ![Astro](https://img.shields.io/badge/Astro-000?style=for-the-badge&logo=astro) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
 <h3 align="center">
 Software Engineer • Full Stack Developer • Building in Public 🚀
 </h3>
